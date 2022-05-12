@@ -6,6 +6,7 @@ github 关联 flyfishcxy
 
  代码一点不简单，我都不愿意改。
  add next3 func
+ 本地修改add next4 func push github
 
 [![Code transform has never been easier: GoGoCode](https://img.alicdn.com/imgextra/i1/O1CN01KMiK8i1uEL75yOSuc_!!6000000006005-2-tps-1949-552.png)](https://gogocode.io)
 
